@@ -13,7 +13,7 @@ Olá, meu nome é Nicoli 👋:shipit:
 <br></br>
 <img loading="lazy" src="https://skillicons.dev/icons?i=flutter" width="40" height="40"/>
 <img loading="lazy" src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
-<img loading="lazy" src="https://skillicons.dev/icons?i=c#" width="40" height="40"/>
+<img loading="lazy" src="https://skillicons.dev/icons?i=cs" width="40" height="40"/>
 <img loading="lazy" src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40"/>
 <img loading="lazy" src="https://skillicons.dev/icons?i=figma" width="40" height="40"/>
 <img loading="lazy" src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/>
