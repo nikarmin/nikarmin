@@ -21,6 +21,6 @@ Olá, meu nome é Nicoli 👋:shipit:
 
 <strong>Contato</strong>
 <br></br>
-![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikarmin/) 
-![Gmail Badge ](https://img.shields.io/badge/Gmail-red?&logo=gmail&logoColor=white&link=mailto:nikafworks@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikarmin/)](https://www.linkedin.com/in/nikarmin/) 
+[![Gmail Badge ](https://img.shields.io/badge/Gmail-red?&logo=gmail&logoColor=white&link=mailto:nikafworks@gmail.com)](mailto:nikafworks@gmail.com)
 </samp>
